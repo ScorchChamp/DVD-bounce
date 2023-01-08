@@ -55,6 +55,8 @@ For support, open a pull request or open an issue [here](https://github.com/Scor
 
 ## License
 
+The logo was taken from https://upload.wikimedia.org/wikipedia/commons/9/9b/DVD_logo.svg
+
 This project is licensed under the <a href="https://api.github.com/licenses/mit}">MIT License</a> license.
         
 **bounce**

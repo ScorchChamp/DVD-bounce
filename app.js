@@ -7,7 +7,7 @@ canvas.width = parent.offsetWidth;
 canvas.height = parent.offsetHeight;
 
 const dvd = { x: 0, y: 0, xspeed: speed, yspeed: speed, img: new Image() };
-dvd.img.src = 'DVD_logo.svg'; 
+dvd.img.src = 'DVD_logo.svg'; // Image source: https://upload.wikimedia.org/wikipedia/commons/9/9b/DVD_logo.svg
 
 function draw() {
   ctx.fillStyle ='white'
