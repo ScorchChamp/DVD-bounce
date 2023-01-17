@@ -1,5 +1,4 @@
 
-
 window.addEventListener("load", function () {
   const canvas = document.getElementById('canvas');
   const parent = document.getElementById("container");
@@ -28,5 +27,6 @@ window.addEventListener("load", function () {
       dvd.yspeed *= -1;
     }
   }
+
   interval = setInterval(() => { update(); draw(); }, speed);
 })
